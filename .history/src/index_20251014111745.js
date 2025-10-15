@@ -1,0 +1,12 @@
+import mongoose from "mongoose";
+
+
+( async ()=> {
+    try{
+    
+    }
+    catch(error){
+        console.log("ERROR:", error)
+        throw err
+    }
+})()

@@ -1,0 +1,8 @@
+import {v2 as cloudinary} from "cloudinary"
+import fs from "fs"
+
+cloudinary.config({ 
+  cloud_name: '', 
+  api_key: '385975316452361', 
+  api_secret: 'KFrMtmqLL8oX_vb-sEl3kn1EpZ8'
+});

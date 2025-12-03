@@ -1,0 +1,1 @@
+import {v2 as c} from "cloudinary"
